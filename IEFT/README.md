@@ -2,9 +2,9 @@
 
 
 ## Install
-```bash
-pip install -r requirements.txt
-```
+
+Please follow requirements.txt
+
 
 
 ## Download Pretrained Weights
