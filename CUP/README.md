@@ -1,6 +1,6 @@
 # CUP
 
-Code for the TNNLS 2024paper: "Cross-modal Remote Sensing Image-text Retrieval via Context and Uncertainty-aware Prompt"
+Code for the TNNLS 2024 paper: "Cross-modal Remote Sensing Image-text Retrieval via Context and Uncertainty-aware Prompt"
 
 ---
 <p align="center">
