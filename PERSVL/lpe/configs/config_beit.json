@@ -1,0 +1,33 @@
+{
+  "architectures": [
+    "BeitForMaskedImageModeling"
+  ],
+  "attention_probs_dropout_prob": 0.0,
+  "drop_path_rate": 0.1,
+  "encoder_width": 768,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "image_size": 224,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "layer_scale_init_value": 0.1,
+  "model_type": "beit",
+  "num_attention_heads": 12,
+  "num_channels": 3,
+  "num_hidden_layers": 12,
+  "patch_size": 16,
+  "torch_dtype": "float32",
+  "transformers_version": "4.11.0.dev0",
+  "use_absolute_position_embeddings": false,
+  "use_mask_token": true,
+  "use_mean_pooling": true,
+  "use_relative_position_bias": false,
+  "use_shared_relative_position_bias": false,
+  "vocab_size": 8192,
+  "image_start": 0,
+  "image_end": 6,
+  "fusion_start": 9,
+  "fusion_end": 12
+}
