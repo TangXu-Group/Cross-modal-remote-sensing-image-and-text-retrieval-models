@@ -4,8 +4,8 @@ Code for the TGRS 2024 paper: "Prior-Experience-based Vision-Language Model for 
 
 ## Requirement
 ```bash
-python== 
-pytorch==
+python==3.7.12
+pytorch==1.10.1
 ```
 
 ## Train
