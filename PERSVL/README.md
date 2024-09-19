@@ -15,7 +15,8 @@ See `run_{dataset name}_irtr_exp_CRSRT_backbone_only.sh` in `scripts` directory.
 ### Stage 2
 See `run_{dataset name}_irtr_exp_CRSRT_LPE.sh` in `scripts` directory.
 
-
+## Test
+Please set `--evaluate=True --resume=<ckpt_path>`
 
 ## Contact for Issues
 If you have any questions, you can send me an email. My mail address is 22171214766@stu.xidian.edu.cn.
